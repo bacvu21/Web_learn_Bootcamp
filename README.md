@@ -1,1 +1,2 @@
-# Web_learn_Bootcamp
+# Hello friends
+This project is learn web from zero 
